@@ -70,7 +70,7 @@ while not window_should_close():
     #draw_text(f'hi azia your time start now :{int(get_time())}' ,10,10,40,ORANGE)
    # text_width= measure_text(cs_forn,'hello bizhar',40,1).x
     # draw_text_ex(cs_forn,'hello bizhar ',Vector2(150,200),40,1,RED)
-    # draw_text_ex(cs_forn,'hello kadheeaj ',Vector2(150,250),40,1,PURPLE)
+   
     draw_text_ex(cs_forn,'welcome to dino game  ',Vector2(300,50),40,1,GRAY)
     
     end_drawing()
