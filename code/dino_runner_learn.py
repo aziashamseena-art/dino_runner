@@ -5,7 +5,7 @@ from os.path import join
 init_window(1280, 800, 'dino runner') #to draw the picture
 init_audio_device()#if we want to play sound need this
 set_target_fps(60)
-x_pos=200
+x_pos=201
 y_pos=400
 r_deg=0
 target_color=BLUE
